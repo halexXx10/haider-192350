@@ -1,1 +1,4 @@
-class Empty{}
+
+public class Empty{
+
+}
